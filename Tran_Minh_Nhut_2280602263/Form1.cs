@@ -6,5 +6,10 @@ namespace Tran_Minh_Nhut_2280602263
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
